@@ -15,4 +15,4 @@
 
 2. 设计框图
 
-![](D:\github\ESP8266_Board\png\1.png)
+![](png\1.png)
