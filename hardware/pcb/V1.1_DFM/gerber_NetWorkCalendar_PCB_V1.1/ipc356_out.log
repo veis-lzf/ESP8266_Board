@@ -1,0 +1,22 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    IPC-D-356                                                        )
+(                                                                     )
+(    Software Version : unreleased                                    )
+(    Date/Time        : Tue Oct  5 09:21:12 2021                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Warning: Found a mechanical pin at location (877.00 1191.00) with no drill - skipping.
+Warning: Found a mechanical pin at location (877.00 1081.00) with no drill - skipping.
+Warning: Found a mechanical pin at location (877.00 987.00) with no drill - skipping.
+Warning: Found a mechanical pin at location (877.00 876.00) with no drill - skipping.
+Warning: Found a mechanical pin at location (2970.00 1901.00) with no drill - skipping.
+Warning: Found a mechanical pin at location (2970.00 1299.00) with no drill - skipping.
+
+
+------------------------------------------
+SUMMARY:
+  Errors:       0
+  Warnings:     6
